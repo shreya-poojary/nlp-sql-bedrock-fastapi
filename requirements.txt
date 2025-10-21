@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+mysql-connector-python
+boto3
+python-dotenv
+pymysql
+mcp
+pydantic
+typing-extensions
