@@ -1,3 +1,12 @@
+## Overview
+Built to demonstrate LLMOps on AWS — this project lets non-technical users 
+query any MySQL database using plain English. It uses AWS Bedrock (Claude 3 Sonnet) 
+to translate natural language into safe, read-only SQL and exposes it via both 
+a FastAPI REST API and MCP protocol for AI tool integration.
+
+Deployed on AWS Innovation Sandbox as part of a UIC project and presented 
+at the AWS Imagine Panel 2025.
+
 # MySQL NLP MCP Server
 
 A comprehensive Natural Language Processing server for MySQL databases using AWS Bedrock and FastAPI, with full MCP (Model Context Protocol) support.
