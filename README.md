@@ -1,11 +1,17 @@
-## Overview
-Built to demonstrate LLMOps on AWS — this project lets non-technical users 
-query any MySQL database using plain English. It uses AWS Bedrock (Claude 3 Sonnet) 
-to translate natural language into safe, read-only SQL and exposes it via both 
-a FastAPI REST API and MCP protocol for AI tool integration.
+# NLP-to-SQL Engine · AWS Bedrock + FastAPI + MCP
 
-Deployed on AWS Innovation Sandbox as part of a UIC project and presented 
-at the AWS Imagine Panel 2025.
+> Query any MySQL database in plain English — no SQL knowledge needed.
+
+Built to demonstrate LLMOps on AWS: this project translates natural language 
+into safe, read-only SQL using AWS Bedrock (Claude 3 Sonnet), and exposes it 
+via both a FastAPI REST API and the MCP (Model Context Protocol) for AI tool 
+integration.
+
+🏆 **Presented at AWS Imagine Panel 2025** — *"Unleashing Innovation with AWS 
+Innovation Sandbox"* — University of Illinois Chicago  
+🚀 **Deployed on AWS Innovation Sandbox** in collaboration with UIC IT
+
+---
 
 # MySQL NLP MCP Server
 
