@@ -1,5 +1,5 @@
 # NLP-to-SQL Engine · AWS Bedrock + FastAPI + MCP
-
+![CI](https://github.com/shreya-poojary/nlp-sql-bedrock-fastapi/actions/workflows/ci.yml/badge.svg)
 
 > Query any MySQL database in plain English — no SQL knowledge needed.
 
